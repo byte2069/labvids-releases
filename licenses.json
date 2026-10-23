@@ -1,0 +1,17 @@
+{
+  "licenses": {
+    "webdev997@gmail.com": {
+      "email": "webdev997@gmail.com",
+      "display_name": "Byte",
+      "plan": "Pro Commercial",
+      "expires_at": "",
+      "duration_type": "lifetime",
+      "status": "active",
+      "notes": "Tài khoản Quản trị viên (Admin)",
+      "password_hash": "45617e7d876ab27deb0b9832e43826c759fc36eaa30dbed249879b22e16d96eb",
+      "created_at": "23/10/2026 18:25",
+      "updated_at": "23/10/2026 18:25"
+    }
+  },
+  "updated_at": "23/10/2026 18:59"
+}
