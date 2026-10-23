@@ -1,8 +1,8 @@
 {
-  "latest_version": "1.0.6.1",
+  "latest_version": "1.0.6.2",
   "release_date": "23/10/2026",
-  "download_url": "https://github.com/byte2069/labvids-releases/releases/download/v1.0.6.1/LabVids-Setup.exe",
+  "download_url": "https://github.com/byte2069/labvids-releases/releases/download/v1.0.6.2/LabVids-Setup.exe",
   "changelog": [
-    "Phiên bản chính thức LabVids v1.0.6.1 tích hợp Auto-Update"
+    "Thêm giao diện Tài khoản (Icon Avatar BY, Hồ sơ User trong Cài đặt, Màn hình Đăng nhập/Đăng ký/Quên mật khẩu)"
   ]
 }
