@@ -1,8 +1,8 @@
 {
-  "latest_version": "1.0.6.2",
+  "latest_version": "1.0.7",
   "release_date": "23/10/2026",
-  "download_url": "https://github.com/byte2069/labvids-releases/releases/download/v1.0.6.2/LabVids-Setup.exe",
+  "download_url": "https://github.com/byte2069/labvids-releases/releases/download/v1.0.7/LabVids-Setup.exe",
   "changelog": [
-    "Thêm giao diện Tài khoản (Icon Avatar BY, Hồ sơ User trong Cài đặt, Màn hình Đăng nhập/Đăng ký/Quên mật khẩu)"
+    "Cập nhật giao diện Tạo Hình Ảnh, Workflow Node Canvas (Dark/Light Mode), Popup cắt ảnh đại diện, Preview ảnh không viền và đồng bộ song ngữ Việt - Anh toàn diện."
   ]
 }
