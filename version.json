@@ -3,10 +3,8 @@
   "release_date": "24/10/2026",
   "download_url": "https://github.com/byte2069/labvids-releases/releases/download/v1.0.7/LabVids-Setup.exe",
   "changelog": [
-    "Sửa lỗi hiển thị font tiếng Việt bộ cài đặt LabVids-Setup.exe",
-    "Đưa model Muse lên đầu và thêm nhãn Chọn model",
-    "Phóng to/thu nhỏ khung làm việc bằng Ctrl + Lăn chuột",
-    "Đồng bộ màu gói Admin (Vàng), Pro (Xanh), Trial và bỏ chấm xanh avatar",
-    "Bảo vệ chống chết Cookie Muse và tự động làm mới phiên"
+    "Thêm nút con mắt hiện/ẩn mật khẩu ở màn hình Đăng nhập & xóa tài khoản mặc định",
+    "Sửa lỗi màn hình đen khi mở song song LabVids và LabVids Admin",
+    "Cập nhật bộ cài đặt UTF-8 tiếng Việt và bảo vệ Cookie Muse"
   ]
 }
