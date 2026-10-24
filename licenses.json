@@ -11,7 +11,19 @@
       "password_hash": "45617e7d876ab27deb0b9832e43826c759fc36eaa30dbed249879b22e16d96eb",
       "created_at": "23/10/2026 18:25",
       "updated_at": "23/10/2026 19:01"
+    },
+    "byte.hd206@gmail.com": {
+      "email": "byte.hd206@gmail.com",
+      "display_name": "Cvh Gcf",
+      "plan": "Pro Commercial",
+      "expires_at": "2026-11-23",
+      "duration_type": "date",
+      "status": "active",
+      "notes": "",
+      "password_hash": "",
+      "created_at": "24/10/2026 10:48",
+      "updated_at": "24/10/2026 10:49"
     }
   },
-  "updated_at": "23/10/2026 19:01"
+  "updated_at": "24/10/2026 10:49"
 }
