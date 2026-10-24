@@ -3,7 +3,7 @@
     "webdev997@gmail.com": {
       "email": "webdev997@gmail.com",
       "display_name": "Byte",
-      "plan": "Pro Commercial",
+      "plan": "Admin",
       "expires_at": "",
       "duration_type": "lifetime",
       "status": "active",
@@ -15,7 +15,7 @@
     "byte.hd206@gmail.com": {
       "email": "byte.hd206@gmail.com",
       "display_name": "Cvh Gcf",
-      "plan": "Pro Commercial",
+      "plan": "Trial",
       "expires_at": "2026-11-23",
       "duration_type": "date",
       "status": "active",
@@ -25,5 +25,5 @@
       "updated_at": "24/10/2026 10:49"
     }
   },
-  "updated_at": "24/10/2026 10:49"
+  "updated_at": "24/10/2026 11:11"
 }
