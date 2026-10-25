@@ -1,8 +1,9 @@
 {
   "latest_version": "1.0.7",
-  "release_date": "24/10/2026",
+  "release_date": "25/10/2026",
   "download_url": "https://github.com/byte2069/labvids-releases/releases/download/v1.0.7/LabVids-Setup.exe",
   "changelog": [
+    "Sửa lỗi tiến trình ngầm giữ khóa khiến không mở lại được LabVids",
     "Đưa tab Cookie Muse lên đầu trong Quản lý Tài khoản",
     "Thêm tính năng Đổi mật khẩu trong Cài đặt chung và nút mắt ẩn/hiện mật khẩu",
     "Sửa triệt để lỗi đen màn hình khi mở đồng thời LabVids và LabVids Admin"
