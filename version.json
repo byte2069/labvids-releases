@@ -1,9 +1,9 @@
 {
-  "latest_version": "1.0.7.1",
-  "release_date": "27/10/2026",
-  "download_url": "https://github.com/byte2069/labvids-releases/releases/download/v1.0.7.1/LabVids-Setup.exe",
+  "latest_version": "1.0.7.2",
+  "release_date": "01/11/2026",
+  "download_url": "https://github.com/byte2069/labvids-releases/releases/download/v1.0.7.2/LabVids-Setup.exe",
   "changelog": [
-    "Sửa lỗi màn hình đen/xám khi sử dụng 2 màn hình (Multi-Monitor WM_NCCALCSIZE & ClientToScreen sync)",
-    "Đồng bộ đổi mật khẩu từ Cloud và tối ưu hiệu năng khởi động WebView2"
+    "Cập nhật giao diện và luồng hoạt động Workflow (Text, Image, Video, Frame Extractor, Frame), chuẩn hóa nút Upload/Generate và tự động hiển thị đúng tỷ lệ khung hình gốc của ảnh/video.",
+    "Đồng bộ hiển thị gói Google AI Ultra, số dư Credits thực tế theo tài khoản và chuẩn hóa model tạo video/ảnh."
   ]
 }
