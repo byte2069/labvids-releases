@@ -47,7 +47,19 @@
       "password_hash": "",
       "created_at": "02/11/2026 08:28",
       "updated_at": "02/11/2026 10:24"
+    },
+    "levanhau.gmejsc@gmail.com": {
+      "email": "levanhau.gmejsc@gmail.com",
+      "display_name": "AShin",
+      "plan": "Trial",
+      "expires_at": "",
+      "duration_type": "lifetime",
+      "status": "active",
+      "notes": "Đăng ký mới (Trial 30 ngày)",
+      "password_hash": "e6905390157a4a10a828f174c8c92443fa864a692a1d5e047fa3b9bae6d81e90",
+      "created_at": "02/11/2026 22:49",
+      "updated_at": "02/11/2026 22:50"
     }
   },
-  "updated_at": "02/11/2026 10:24"
+  "updated_at": "02/11/2026 22:50"
 }
