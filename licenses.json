@@ -87,14 +87,14 @@
     "namtron20gm@gmail.com": {
       "email": "namtron20gm@gmail.com",
       "display_name": "Tron Nam",
-      "plan": "Trial",
+      "plan": "Pro",
       "expires_at": "",
       "duration_type": "lifetime",
       "status": "active",
       "notes": "Đăng nhập Google (Trial 30 ngày)",
       "password_hash": "",
       "created_at": "04/11/2026 09:50",
-      "updated_at": "04/11/2026 14:28"
+      "updated_at": "04/11/2026 15:19"
     },
     "phuc.gta67.gm@gmail.com": {
       "email": "phuc.gta67.gm@gmail.com",
@@ -109,5 +109,5 @@
       "updated_at": "04/11/2026 14:28"
     }
   },
-  "updated_at": "04/11/2026 15:19"
+  "updated_at": "04/11/2026 15:20"
 }
