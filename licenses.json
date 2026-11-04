@@ -39,14 +39,14 @@
     "quoc@gmai.com": {
       "email": "quoc@gmai.com",
       "display_name": "quoc",
-      "plan": "Trial",
+      "plan": "Pro",
       "expires_at": "2027-01-31",
       "duration_type": "date",
       "status": "active",
       "notes": "Quốc Công",
       "password_hash": "",
       "created_at": "02/11/2026 08:28",
-      "updated_at": "02/11/2026 10:24"
+      "updated_at": "04/11/2026 15:20"
     },
     "levanhau.gmejsc@gmail.com": {
       "email": "levanhau.gmejsc@gmail.com",
