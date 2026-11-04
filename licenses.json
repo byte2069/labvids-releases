@@ -99,14 +99,14 @@
     "phuc.gta67.gm@gmail.com": {
       "email": "phuc.gta67.gm@gmail.com",
       "display_name": "phuc.gta67.gm",
-      "plan": "Trial",
+      "plan": "Pro",
       "expires_at": "",
       "duration_type": "lifetime",
       "status": "active",
       "notes": "Đăng ký mới (Trial 30 ngày)",
       "password_hash": "66708f0411acab5da501db7fef7a5cae0c3aea37f06ff7313e4e0b687f6e9d5d",
       "created_at": "04/11/2026 09:53",
-      "updated_at": "04/11/2026 14:28"
+      "updated_at": "04/11/2026 15:20"
     }
   },
   "updated_at": "04/11/2026 15:20"
