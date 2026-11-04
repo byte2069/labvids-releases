@@ -1,11 +1,10 @@
 {
-  "latest_version": "1.0.7.3",
-  "release_date": "02/11/2026",
-  "download_url": "https://github.com/byte2069/labvids-releases/releases/download/v1.0.7.3/LabVids-Setup.exe",
+  "latest_version": "1.0.7.4",
+  "release_date": "04/11/2026",
+  "download_url": "https://github.com/byte2069/labvids-releases/releases/download/v1.0.7.4/LabVids-Setup.exe",
   "changelog": [
-    "Thêm tùy chọn Thời lượng video Muse (10s, 20s, 30s, 40s, 50s, 60s / 1 phút)",
-    "Bổ sung thanh cuộn dọc bên phải (Scrollbar) cho chế độ xem Lưới (Grid 2, Grid 3, Grid 4)",
-    "Tích hợp cơ chế Đồng bộ Storyboard Keyframe đa Cookie (Cách 3) chạy song song",
-    "Đồng bộ tự động tài khoản đăng ký mới lên Firebase Cloud Firestore & LabVids Admin"
+    "Biên dịch lại lõi khởi động Native Bootloader riêng biệt (MSVC x64 + Control Flow Guard) và tắt nén UPX để chống nhận diện nhầm (False Positive Trojan) trên Windows Defender & Antivirus",
+    "Cập nhật thông tin định danh PE Header chuẩn cho LabVids.exe và bộ cài LabVids-Setup.exe",
+    "Thêm tùy chọn Thời lượng video Muse (10s, 20s, 30s, 40s, 50s, 60s / 1 phút) & Đồng bộ Storyboard Keyframe đa Cookie"
   ]
 }
