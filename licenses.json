@@ -59,7 +59,55 @@
       "password_hash": "e6905390157a4a10a828f174c8c92443fa864a692a1d5e047fa3b9bae6d81e90",
       "created_at": "02/11/2026 22:49",
       "updated_at": "02/11/2026 22:50"
+    },
+    "anhhiengm11@gmail.com": {
+      "email": "anhhiengm11@gmail.com",
+      "display_name": "Hien Anh",
+      "plan": "Trial",
+      "expires_at": "",
+      "duration_type": "lifetime",
+      "status": "active",
+      "notes": "Đăng nhập Google (Trial 30 ngày)",
+      "password_hash": "",
+      "created_at": "04/11/2026 09:53",
+      "updated_at": "04/11/2026 14:28"
+    },
+    "hung.leader2d.gm@gmail.com": {
+      "duration_type": "date",
+      "created_at": "04/11/2026 09:53",
+      "display_name": "HungNguyen",
+      "password_hash": "42e99db13f5031f27c2e55f790a72cea14c20eea093673c365b81db10e158f71",
+      "status": "active",
+      "notes": "Đăng ký mới (Trial 30 ngày)",
+      "updated_at": "04/11/2026 09:53",
+      "expires_at": "2026-12-04",
+      "plan": "Trial",
+      "email": "hung.leader2d.gm@gmail.com"
+    },
+    "namtron20gm@gmail.com": {
+      "duration_type": "date",
+      "plan": "Trial",
+      "created_at": "04/11/2026 09:50",
+      "status": "active",
+      "password_hash": "",
+      "email": "namtron20gm@gmail.com",
+      "updated_at": "04/11/2026 09:50",
+      "notes": "Đăng nhập Google (Trial 30 ngày)",
+      "expires_at": "2026-12-04",
+      "display_name": "Tron Nam"
+    },
+    "phuc.gta67.gm@gmail.com": {
+      "duration_type": "date",
+      "created_at": "04/11/2026 09:53",
+      "display_name": "phuc.gta67.gm",
+      "updated_at": "04/11/2026 09:53",
+      "password_hash": "66708f0411acab5da501db7fef7a5cae0c3aea37f06ff7313e4e0b687f6e9d5d",
+      "expires_at": "2026-12-04",
+      "notes": "Đăng ký mới (Trial 30 ngày)",
+      "status": "active",
+      "plan": "Trial",
+      "email": "phuc.gta67.gm@gmail.com"
     }
   },
-  "updated_at": "02/11/2026 22:50"
+  "updated_at": "04/11/2026 14:28"
 }
