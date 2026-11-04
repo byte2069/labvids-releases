@@ -85,16 +85,16 @@
       "updated_at": "04/11/2026 14:28"
     },
     "namtron20gm@gmail.com": {
-      "duration_type": "date",
-      "plan": "Trial",
-      "created_at": "04/11/2026 09:50",
-      "status": "active",
-      "password_hash": "",
       "email": "namtron20gm@gmail.com",
-      "updated_at": "04/11/2026 09:50",
+      "display_name": "Tron Nam",
+      "plan": "Trial",
+      "expires_at": "",
+      "duration_type": "lifetime",
+      "status": "active",
       "notes": "Đăng nhập Google (Trial 30 ngày)",
-      "expires_at": "2026-12-04",
-      "display_name": "Tron Nam"
+      "password_hash": "",
+      "created_at": "04/11/2026 09:50",
+      "updated_at": "04/11/2026 14:28"
     },
     "phuc.gta67.gm@gmail.com": {
       "duration_type": "date",
