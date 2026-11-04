@@ -63,14 +63,14 @@
     "anhhiengm11@gmail.com": {
       "email": "anhhiengm11@gmail.com",
       "display_name": "Hien Anh",
-      "plan": "Trial",
+      "plan": "Pro",
       "expires_at": "",
       "duration_type": "lifetime",
       "status": "active",
       "notes": "Đăng nhập Google (Trial 30 ngày)",
       "password_hash": "",
       "created_at": "04/11/2026 09:53",
-      "updated_at": "04/11/2026 14:28"
+      "updated_at": "04/11/2026 15:19"
     },
     "hung.leader2d.gm@gmail.com": {
       "email": "hung.leader2d.gm@gmail.com",
@@ -109,5 +109,5 @@
       "updated_at": "04/11/2026 14:28"
     }
   },
-  "updated_at": "04/11/2026 14:28"
+  "updated_at": "04/11/2026 15:19"
 }
