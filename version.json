@@ -1,11 +1,6 @@
 {
-  "latest_version": "1.0.7.5",
+  "latest_version": "1.0.7.6",
   "release_date": "06/11/2026",
-  "download_url": "https://github.com/byte2069/labvids-releases/releases/download/v1.0.7.5/LabVids-Setup.exe",
-  "changelog": [
-    "Đồng bộ ảnh tham chiếu (Reference Images) cho toàn bộ model Veo 3 (3.1 Lite, Fast, Relax, Quality, Omni Flash) và Nano Banana trên Google Flow.",
-    "Tự động chuyển trạng thái nhãn ULTRA sang Hết hạn (màu đỏ) khi Cookie Veo 3 hết hạn.",
-    "Đồng bộ tuần tự Set-Cookie (SIDCC, __Secure-1PSIDTS) giúp giữ phiên Cookie Flow bền vững, tránh lỗi HTTP 401.",
-    "Tích hợp bảo mật chống dịch ngược & chống clone mã nguồn bằng Cython Native .pyd + App Vault."
-  ]
+  "download_url": "https://github.com/byte2069/labvids-releases/releases/download/v1.0.7.6/LabVids-Setup.exe",
+  "changelog": []
 }
