@@ -107,7 +107,19 @@
       "password_hash": "66708f0411acab5da501db7fef7a5cae0c3aea37f06ff7313e4e0b687f6e9d5d",
       "created_at": "04/11/2026 09:53",
       "updated_at": "04/11/2026 15:20"
+    },
+    "datnguyentat37@gmail.com": {
+      "email": "datnguyentat37@gmail.com",
+      "display_name": "Dat Nguyen tat",
+      "plan": "Trial",
+      "expires_at": "",
+      "duration_type": "lifetime",
+      "status": "active",
+      "notes": "Đăng nhập Google (Trial 30 ngày)",
+      "password_hash": "",
+      "created_at": "07/11/2026 09:04",
+      "updated_at": "09/11/2026 23:01"
     }
   },
-  "updated_at": "04/11/2026 15:20"
+  "updated_at": "09/11/2026 23:01"
 }
