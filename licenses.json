@@ -40,13 +40,13 @@
       "email": "quoc@gmai.com",
       "display_name": "quoc",
       "plan": "Pro",
-      "expires_at": "2027-01-31",
-      "duration_type": "date",
+      "expires_at": "",
+      "duration_type": "lifetime",
       "status": "active",
       "notes": "Quốc Công",
       "password_hash": "",
       "created_at": "02/11/2026 08:28",
-      "updated_at": "04/11/2026 15:20"
+      "updated_at": "10/11/2026 20:10"
     },
     "levanhau.gmejsc@gmail.com": {
       "email": "levanhau.gmejsc@gmail.com",
@@ -121,5 +121,5 @@
       "updated_at": "09/11/2026 23:01"
     }
   },
-  "updated_at": "09/11/2026 23:01"
+  "updated_at": "10/11/2026 20:10"
 }
