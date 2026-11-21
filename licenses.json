@@ -119,7 +119,19 @@
       "password_hash": "",
       "created_at": "07/11/2026 09:04",
       "updated_at": "09/11/2026 23:01"
+    },
+    "lecongngan12a2@gmail.com": {
+      "email": "lecongngan12a2@gmail.com",
+      "display_name": "Ngân",
+      "plan": "Pro",
+      "expires_at": "",
+      "duration_type": "lifetime",
+      "status": "active",
+      "notes": "",
+      "password_hash": "12ff551d0e1bf17303b9076cffc4bdf63d4e2c6f34acd212fe3464f36ef817ed",
+      "created_at": "22/11/2026 03:38",
+      "updated_at": "22/11/2026 03:38"
     }
   },
-  "updated_at": "10/11/2026 20:10"
+  "updated_at": "22/11/2026 03:38"
 }
